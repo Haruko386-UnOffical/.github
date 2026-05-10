@@ -5,3 +5,7 @@
     <p>We try to have some fun projects here. Hope you like them! 🤗</p>
   </blockquote>
 </div>
+    <hr>
+<div align="center">
+  <img alt="github contribution grid city" src="https://raw.githubusercontent.com/Haruko386/github-city/769157e42f301140dc4ff7c88f740e32d512f2ef/city.svg" width="80%">
+</div>
