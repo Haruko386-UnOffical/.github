@@ -7,5 +7,5 @@
 </div>
     <hr>
 <div align="center">
-  <img alt="github contribution grid city" src="https://raw.githubusercontent.com/Haruko386/github-city/769157e42f301140dc4ff7c88f740e32d512f2ef/city.svg" width="80%">
+  <img alt="github contribution grid city" src="https://raw.githubusercontent.com/Haruko386/Haruko386/fa210ac7e4482050dad33bf64ec6f3f741d59bba/city.svg" width="80%">
 </div>
